@@ -1,5 +1,5 @@
 // === Customize text here ===
-const HER_NAME = "Hey Naina-ka-ky-kahna";
+const HER_NAME = "Hey qt";
 const YOUR_NAME = "Dev";
 const QUESTION_LINE = "will you be my valentine?";
 const SUBTITLE_LINE = "A tiny question from";
